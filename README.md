@@ -1,4 +1,4 @@
-# GitLabCI Runner on Kuberntes 
+# GitLabCI Runner on Kubernetes 
 
 
 ## 自定义gitlab-runner  helm chart  
